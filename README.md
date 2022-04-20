@@ -1,1 +1,1 @@
-# gittut
+This project has following contents:
